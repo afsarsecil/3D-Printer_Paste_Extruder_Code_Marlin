@@ -8,11 +8,11 @@ https://reprap.org/wiki/File:PRUSA_i3_steel_3mm_lasercut_2.01d_irobri.dwg
 
 The Github link for the code 
 
-https://github.com/afsarsecil
+https://github.com/afsarsecil/Customized_3D_Printer_Paste_Extruder_Marlin_Code
 
 The Github link for the stl files
 
-
+https://github.com/afsarsecil/Customized_3D_Printer_Paste_Extruder_STL_Files
 
 **** Arduino case remixed from Thingiverse user  'iPa64' 's model 'Case for Arduino Mega R3 and RAMPS 1.4', 'https://www.thingiverse.com/thing:831696' (note: the link did not appear in the autosuggest above)".
 
